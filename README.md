@@ -10,37 +10,9 @@ TMDB API 기반 영화 추천/검색 웹 서비스로 사용자에게 쉽고 빠
 ### 서비스 링크 : https://croa-moviewiki.netlify.app/
 
 ### 기술 스택
-<table>
-  <tr>
-    <td><strong>스택</strong></td>
-    <td>JS</td>
-    <td>REACT</td>
-    <td>tailwindCSS</td>
-    <td>styled-components</td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" width="180" height="180"/></td>
-    <td><img src="https://blog.kakaocdn.net/dn/doBY5S/btrlEmJSNSs/qmgj8lzzHRkt2b0WX5nSN1/img.png" width="180" height="180"/></td>
-    <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" width="180" height="180"/></td>
-    <td><img src="https://i.ibb.co/ydkG6cv/img.png" width="180" height="180"/></td>
-  </tr>
-  <tr>
-    <td><strong>라이브러리</strong></td>
-    <td>RTK</td>
-    <td>react-star-ratings</td>
-    <td></td>
-    <td></td>
-  </tr>
-  <tr>
-    <td></td>
-    <td><img src="https://img.uxwing.com/wp-content/themes/uxwing/download/brands-social-media/redux-icon.svg" width="180" height="180"/></td>
-    <td><img src="https://raw.githubusercontent.com/ami1906/react-star-rating-lite/develop/public/filled.png" width="180"/></td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
+| Html | CSS | JavaScript | React | Styled-<br>Components | tailwindCSS | react-star-<br>rating | Redux-ToolKit |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| <img alt="Html" src ="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/440px-HTML5_logo_and_wordmark.svg.png" width="65" height="65" /> | <div style="display: flex; align-items: flex-start;"><img src="https://user-images.githubusercontent.com/111227745/210204643-4c3d065c-59ec-481d-ac13-cea795730835.png" alt="CSS" width="50" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/800px-JavaScript-logo.png" alt="js" width="65" height="65"/></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://www.styled-components.com/atom.png" alt="styled-components icon" width="65" height="65" /></div> | <div style="display: flex; align-items: flex-start;"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/2048px-Tailwind_CSS_Logo.svg.png" alt="tailwindcss" width="65" height="65"/></div> | <div style="display: flex; align-items: flex-start;"><img src="https://raw.githubusercontent.com/ami1906/react-star-rating-lite/develop/public/filled.png" width="65"/></div> | <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="63" height="63" /></div> |
 
 ### 개발 환경 세팅
 ```bash
@@ -53,9 +25,11 @@ npm start
 - 공동 기획 후 1팀과 2팀으로 나뉘어 개발 진행
 - 1팀 깃허브 링크 : https://github.com/FE-Sprint-Study/Namu-Movie
 
-| 1팀 |  |  | 2팀 |  |  |
-| --- | --- | --- | --- | --- | --- |
-| [김민재](https://github.com/crowcrow07) | [김영웅](https://github.com/novice-hero) | [황찬우](https://github.com/HChanWoo) | [김준표](https://github.com/KimJunpyo) | [김태우](https://github.com/TaeWooKim-SCH/) | [류지수](https://github.com/R-jisu) | 
+|  1팀  |  2팀  |
+| :------------: | :------------: |
+| [김민재](https://github.com/crowcrow07) | [김준표](https://github.com/KimJunpyo) |
+| [김영웅](https://github.com/novice-hero) | [김태우](https://github.com/TaeWooKim-SCH/) |
+| [황찬우](https://github.com/HChanWoo) | [류지수](https://github.com/R-jisu) | 
 
 
 ## 기능 목록
